@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-orinocowebapp-dev-143334-authRole",
+            "UnauthRoleArn": "arn:aws:iam::341044331651:role/amplify-orinocowebapp-dev-143334-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::341044331651:role/amplify-orinocowebapp-dev-143334-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-orinocowebapp-dev-143334-deployment",
+            "UnauthRoleName": "amplify-orinocowebapp-dev-143334-unauthRole",
+            "StackName": "amplify-orinocowebapp-dev-143334",
+            "StackId": "arn:aws:cloudformation:us-east-1:341044331651:stack/amplify-orinocowebapp-dev-143334/d6462380-da6e-11ea-b34e-0e3b177c99d5",
+            "AmplifyAppId": "d1qkp4q22gmh9b"
+        }
+    }
+}

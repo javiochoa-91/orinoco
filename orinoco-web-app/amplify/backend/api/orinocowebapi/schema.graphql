@@ -1,0 +1,7 @@
+type History @model {
+  id: ID!
+  individualId: String!
+  name: String
+  calllogs: String
+  smsLogs: String
+}
